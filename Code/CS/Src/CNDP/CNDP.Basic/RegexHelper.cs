@@ -12,7 +12,7 @@ namespace CNDP.Basic
 
         public static string MatchDateTime(string value)
         {
-            return "O21222";
+            return "O21222111";
         }
     }
 }
